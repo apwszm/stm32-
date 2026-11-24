@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+*.axf
+*.crf
+*.dep
+*.bak
+*.lnp
+*.htm
+*.uvguix.*
+**/Objects/
+**/Listings/
+**/DebugConfig/
+**/RTE/
